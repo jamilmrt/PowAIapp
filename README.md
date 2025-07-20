@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/jamil-aktars-projects/v0-modern-landing-page](https://vercel.com/jamil-aktars-projects/v0-modern-landing-page)**
+**[https://vercel.com/jamil-aktars-projects/v0-modern-landing-page](https://pow-a-iapp-ggc1chmlj-jamil-aktars-projects.vercel.app/)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/xy3YrR3vLab](https://pow-a-iapp-ggc1chmlj-jamil-aktars-projects.vercel.app/)**
+**[https://v0.dev/chat/projects/xy3YrR3vLab](https://pow-a-iapp.vercel.app/)**
 
 ## How It Works
 
