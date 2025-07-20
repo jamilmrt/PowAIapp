@@ -20,7 +20,7 @@ Your project is live at:
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/xy3YrR3vLab](https://v0.dev/chat/projects/xy3YrR3vLab)**
+**[https://v0.dev/chat/projects/xy3YrR3vLab](https://pow-a-iapp-ggc1chmlj-jamil-aktars-projects.vercel.app/)**
 
 ## How It Works
 
